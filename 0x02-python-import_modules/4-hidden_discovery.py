@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 4-hidden_discovery.py
-# samibirhanu1 <samuelbirhanu01@gmail.com>
 
 if __name__ == "__main__":
     """Print all names defined by hidden_4 module."""
