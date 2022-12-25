@@ -15,7 +15,7 @@
 
 * All C codes follow the Betty coding style, and was checked using betty-style.pl and betty-doc.pl
 
-* All Python codes follow the pycodestyle (version 2.8.*)
+* All Python codes follow the pycodestyle (version 2.8.)
 
 
 ### Code Editor used: `vim`
