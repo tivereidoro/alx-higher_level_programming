@@ -1,7 +1,6 @@
 # 0x12-JAVASCRIPT WARM UP - ALX SE
 #
 
-[![npm][npm-image]][npm-url]
 [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)](https://github.com/standard/semistandard)
 
 ### Behold JavaScript; --here we go;
