@@ -2,7 +2,7 @@
 'use strict';
 
 function secondMax (arg) {
-  if (arg.length <= 1) {
+  if (arg.length < 1 || arg.length === 1) {
     return 0;
   }
   arg.sort();
