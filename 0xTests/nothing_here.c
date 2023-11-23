@@ -3,4 +3,4 @@ New line only.
 
 --version
 
-
+const i = 6;
